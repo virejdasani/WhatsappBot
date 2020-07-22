@@ -1,0 +1,32 @@
+1595435478968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHeGQSu"
+Gtk-Message: 22:01:19.788: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:01:29.341: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:01:29.648: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:01:31.301: Failed to load module "appmenu-gtk-module"
+1595435492663	Marionette	INFO	Listening on port 34075
+1595435492727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+1595435513335	Marionette	INFO	Stopped listening on port 34075
+1595435810211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejBh2sJ"
+Gtk-Message: 22:06:50.241: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:07:00.874: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:07:00.991: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:07:02.810: Failed to load module "appmenu-gtk-module"
+1595435823104	Marionette	INFO	Listening on port 45221
+1595435823172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1595435838312	Marionette	INFO	Stopped listening on port 45221
+1595435914065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEW93zu"
+Gtk-Message: 22:08:34.094: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:08:37.508: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:08:37.655: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:08:39.568: Failed to load module "appmenu-gtk-module"
+1595435919785	Marionette	INFO	Listening on port 41981
+1595435919884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.28a86c90d20ffcb7a7cc.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595435994323	Marionette	INFO	Stopped listening on port 41981
